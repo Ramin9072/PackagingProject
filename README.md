@@ -1,4 +1,6 @@
-# PackagingProject
+# PackagingProject 
+
+:simple_smile:
 
 follow this step to create package for nuget server for .Net Framework Projects.
 - You can download Nuget from this site https://www.nuget.org/downloads.
@@ -33,4 +35,4 @@ Open powershell  again and type ( nuget pack )
 
 that's it you make a nuget package for .Net Framework
 
-WELL DONE
+WELL DONE :clap::clap::clap:
