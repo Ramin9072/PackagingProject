@@ -23,7 +23,7 @@ follow this step to create package for nuget server for .Net Framework Projects.
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Package description</description>
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
-    <copyright>Copyright 2019</copyright>
+    <copyright>Copyright 2022</copyright>
     <tags>Tag1 Tag2</tags>
   </metadata>
 </package> 
