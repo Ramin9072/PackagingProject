@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>console-writeline</id>
+    <version>1.0.0</version>
+    <authors>ramin-navabian</authors>
+    <owners>ramin-navabian</owners>
+    <license type="expression">navvait</license>
+    <iconUrl>http://navvait.ir/img/small-logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package description</description>
+    <releaseNotes>this is make by this command in powershell-- nuget spec</releaseNotes>
+    <copyright>Copyright 2022</copyright>
+    <tags>nvbn nvbn1</tags>
+  </metadata>
+</package> 
